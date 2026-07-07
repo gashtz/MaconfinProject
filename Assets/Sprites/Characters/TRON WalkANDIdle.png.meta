@@ -1,0 +1,1438 @@
+fileFormatVersion: 2
+guid: 15b6556c28bf06940a061b9d591f0567
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8439875931562084087
+    second: Sprite Quase Pronto_0
+  - first:
+      213: 3065796559644798129
+    second: Sprite Quase Pronto_1
+  - first:
+      213: -6430196721018705270
+    second: Sprite Quase Pronto_2
+  - first:
+      213: -9017680291682827425
+    second: Sprite Quase Pronto_3
+  - first:
+      213: -465702527939777691
+    second: Sprite Quase Pronto_4
+  - first:
+      213: -3115142460551144702
+    second: Sprite Quase Pronto_5
+  - first:
+      213: -6846265566701496878
+    second: Sprite Quase Pronto_6
+  - first:
+      213: 8495931686727422324
+    second: Sprite Quase Pronto_7
+  - first:
+      213: 7499990907048692849
+    second: Sprite Quase Pronto_8
+  - first:
+      213: 8766767202755423091
+    second: Sprite Quase Pronto_9
+  - first:
+      213: 5137701486870849758
+    second: Sprite Quase Pronto_10
+  - first:
+      213: -1336864102923154623
+    second: Sprite Quase Pronto_11
+  - first:
+      213: 6611588068818667930
+    second: Sprite Quase Pronto_12
+  - first:
+      213: -5813581493900855924
+    second: Sprite Quase Pronto_13
+  - first:
+      213: 2374690076459339889
+    second: Sprite Quase Pronto_14
+  - first:
+      213: 2563112552113389484
+    second: Sprite Quase Pronto_15
+  - first:
+      213: -3938670035573335386
+    second: Sprite Quase Pronto_16
+  - first:
+      213: 1722863777829106610
+    second: Sprite Quase Pronto_17
+  - first:
+      213: -860789216642894922
+    second: Sprite Quase Pronto_18
+  - first:
+      213: 3324563043354725947
+    second: Sprite Quase Pronto_19
+  - first:
+      213: 4608586005550102456
+    second: Sprite Quase Pronto_20
+  - first:
+      213: 7769059401743137567
+    second: Sprite Quase Pronto_21
+  - first:
+      213: -1450680263612668568
+    second: Sprite Quase Pronto_22
+  - first:
+      213: -7290148770596088564
+    second: Sprite Quase Pronto_23
+  - first:
+      213: 5937526537720808599
+    second: Sprite Quase Pronto_24
+  - first:
+      213: 2301624020972782131
+    second: Sprite Quase Pronto_25
+  - first:
+      213: -7917039880169482040
+    second: Sprite Quase Pronto_26
+  - first:
+      213: 8773165685423472906
+    second: Sprite Quase Pronto_27
+  - first:
+      213: -6346036859558539116
+    second: Sprite Quase Pronto_28
+  - first:
+      213: 1517677446987760854
+    second: Sprite Quase Pronto_29
+  - first:
+      213: -4401001083803232627
+    second: Sprite Quase Pronto_30
+  - first:
+      213: -5531336265931042708
+    second: Sprite Quase Pronto_31
+  - first:
+      213: -4457531436135296578
+    second: Sprite Quase Pronto_32
+  - first:
+      213: 71059927289769269
+    second: Sprite Quase Pronto_33
+  - first:
+      213: 7284293277633923978
+    second: Sprite Quase Pronto_34
+  - first:
+      213: 3066936428210544033
+    second: Sprite Quase Pronto_35
+  - first:
+      213: -4803343165645218011
+    second: Sprite Quase Pronto_36
+  - first:
+      213: -3224331612311961943
+    second: Sprite Quase Pronto_37
+  - first:
+      213: -8226047084896344314
+    second: Sprite Quase Pronto_38
+  - first:
+      213: 3547132004705811756
+    second: Sprite Quase Pronto_39
+  - first:
+      213: 6982338270842926299
+    second: Sprite Quase Pronto_40
+  - first:
+      213: 1063615800592540409
+    second: Sprite Quase Pronto_41
+  - first:
+      213: -8348576336484126696
+    second: Sprite Quase Pronto_42
+  - first:
+      213: -5348381195153140467
+    second: Sprite Quase Pronto_43
+  - first:
+      213: -877207753835256520
+    second: Sprite Quase Pronto_44
+  - first:
+      213: 530980494111788266
+    second: Sprite Quase Pronto_45
+  - first:
+      213: 6292492617811649253
+    second: Sprite Quase Pronto_46
+  - first:
+      213: 7869630750627345350
+    second: Sprite Quase Pronto_47
+  - first:
+      213: 5644376402724544202
+    second: Sprite Quase Pronto_48
+  - first:
+      213: 304202237753421543
+    second: Sprite Quase Pronto_49
+  - first:
+      213: -6219047324707687304
+    second: Sprite Quase Pronto_50
+  - first:
+      213: -1065027541018335950
+    second: Sprite Quase Pronto_51
+  - first:
+      213: 4060403970383568009
+    second: Sprite Quase Pronto_52
+  - first:
+      213: 1162908398383002261
+    second: Sprite Quase Pronto_53
+  - first:
+      213: 4603715755581862849
+    second: Sprite Quase Pronto_54
+  - first:
+      213: -331847696542587296
+    second: Sprite Quase Pronto_55
+  - first:
+      213: -2043017331280569042
+    second: Sprite Quase Pronto_56
+  - first:
+      213: -2071509746120479041
+    second: Sprite Quase Pronto_57
+  - first:
+      213: 4036682993123882618
+    second: Sprite Quase Pronto_58
+  - first:
+      213: -5238705149974834183
+    second: Sprite Quase Pronto_59
+  - first:
+      213: -6142487552379493729
+    second: Sprite Quase Pronto_60
+  - first:
+      213: 3208347337011444189
+    second: Sprite Quase Pronto_61
+  - first:
+      213: 3752514557106861635
+    second: Sprite Quase Pronto_62
+  - first:
+      213: -8789546063228055637
+    second: Sprite Quase Pronto_63
+  - first:
+      213: 5408368696730921437
+    second: Sprite Quase Pronto_64
+  - first:
+      213: -1510274233424970700
+    second: Sprite Quase Pronto_65
+  - first:
+      213: -3836389743060890917
+    second: Sprite Quase Pronto_66
+  - first:
+      213: 4773403794007909688
+    second: Sprite Quase Pronto_67
+  - first:
+      213: 5276510062083717147
+    second: Sprite Quase Pronto_68
+  - first:
+      213: -5308387403903125368
+    second: Sprite Quase Pronto_69
+  - first:
+      213: 3453457062625636789
+    second: Sprite Quase Pronto_70
+  - first:
+      213: 3829111322929135042
+    second: Sprite Quase Pronto_71
+  - first:
+      213: -2854722231382392898
+    second: Sprite Quase Pronto_72
+  - first:
+      213: -7673704458466027063
+    second: Sprite Quase Pronto_73
+  - first:
+      213: -833140473222361232
+    second: Sprite Quase Pronto_74
+  - first:
+      213: 2613733064995321048
+    second: Sprite Quase Pronto_75
+  - first:
+      213: -7361391111470250232
+    second: Sprite Quase Pronto_76
+  - first:
+      213: -4395599344481693523
+    second: Sprite Quase Pronto_77
+  - first:
+      213: 6239068286312456999
+    second: Sprite Quase Pronto_78
+  - first:
+      213: -7113102091224638151
+    second: Sprite Quase Pronto_79
+  - first:
+      213: -9053192632873217243
+    second: Sprite Quase Pronto_80
+  - first:
+      213: 6144286498344575337
+    second: Sprite Quase Pronto_81
+  - first:
+      213: -999506724530840899
+    second: Sprite Quase Pronto_82
+  - first:
+      213: -645958296430005180
+    second: Sprite Quase Pronto_83
+  - first:
+      213: 7853660648311996513
+    second: Sprite Quase Pronto_84
+  - first:
+      213: -4865106485308615045
+    second: Sprite Quase Pronto_85
+  - first:
+      213: -7195555434472439645
+    second: Sprite Quase Pronto_86
+  - first:
+      213: 43320046690296191
+    second: Sprite Quase Pronto_87
+  - first:
+      213: 13390330522374163
+    second: Sprite Quase Pronto_88
+  - first:
+      213: -5810214144197906280
+    second: Sprite Quase Pronto_89
+  - first:
+      213: 5806064222157567567
+    second: Sprite Quase Pronto_90
+  - first:
+      213: 8753939276478756395
+    second: Sprite Quase Pronto_91
+  - first:
+      213: -5522483872978061396
+    second: Sprite Quase Pronto_92
+  - first:
+      213: 2149924497356345304
+    second: Sprite Quase Pronto_93
+  - first:
+      213: 3756014691906821003
+    second: Sprite Quase Pronto_94
+  - first:
+      213: 5249163304861612495
+    second: Sprite Quase Pronto_95
+  - first:
+      213: -3397935583629746239
+    second: Sprite Quase Pronto_96
+  - first:
+      213: 4290735739389575931
+    second: Sprite Quase Pronto_97
+  - first:
+      213: 1580305275433489427
+    second: Sprite Quase Pronto_98
+  - first:
+      213: 6703518470097596435
+    second: Sprite Quase Pronto_99
+  - first:
+      213: -9058048041374700443
+    second: Sprite Quase Pronto_100
+  - first:
+      213: 2726196997372784611
+    second: Sprite Quase Pronto_101
+  - first:
+      213: 2662075916366023951
+    second: Sprite Quase Pronto_102
+  - first:
+      213: -3479096972377829179
+    second: Sprite Quase Pronto_103
+  - first:
+      213: 7440972938670070573
+    second: Sprite Quase Pronto_104
+  - first:
+      213: 4894506218802208502
+    second: Sprite Quase Pronto_105
+  - first:
+      213: 669384611570977409
+    second: Sprite Quase Pronto_106
+  - first:
+      213: -6184227005034510894
+    second: Sprite Quase Pronto_107
+  - first:
+      213: -1133810113596636294
+    second: Sprite Quase Pronto_108
+  - first:
+      213: -7933573253545016206
+    second: Sprite Quase Pronto_109
+  - first:
+      213: -7380425752960532660
+    second: Sprite Quase Pronto_110
+  - first:
+      213: 421965807002148877
+    second: Sprite Quase Pronto_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 260
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WalkD1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 4797
+        width: 188
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9097fde7e898fda80800000000000000
+      internalID: -8439875931562084087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkD2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 4797
+        width: 189
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc2e3b4ab5eb8a20800000000000000
+      internalID: 3065796559644798129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkD3
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 4797
+        width: 187
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8a6ccf962a53c6a0800000000000000
+      internalID: -6430196721018705270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkD4
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 4797
+        width: 187
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53443c6d83cad280800000000000000
+      internalID: -9017680291682827425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkD5
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 4797
+        width: 186
+        height: 376
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56be52ba40e7989f0800000000000000
+      internalID: -465702527939777691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkD6
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 4797
+        width: 186
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bdc16df6ac4c4d0800000000000000
+      internalID: -3115142460551144702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkU1
+      rect:
+        serializedVersion: 2
+        x: 1987
+        y: 4797
+        width: 186
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5d4ca7dbd2df0a0800000000000000
+      internalID: -6846265566701496878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkU2
+      rect:
+        serializedVersion: 2
+        x: 2307
+        y: 4797
+        width: 186
+        height: 376
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4719f5f0bdc97e570800000000000000
+      internalID: 8495931686727422324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkU3
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 4797
+        width: 186
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c0c494ef1551860800000000000000
+      internalID: 7499990907048692849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkU4
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 4797
+        width: 186
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b28c49250d9a970800000000000000
+      internalID: 8766767202755423091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkU5
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 4797
+        width: 186
+        height: 376
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8eee61848cc4740800000000000000
+      internalID: 5137701486870849758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkU6
+      rect:
+        serializedVersion: 2
+        x: 3586
+        y: 4797
+        width: 188
+        height: 386
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14b4b407e21827de0800000000000000
+      internalID: -1336864102923154623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkR1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4317
+        width: 157
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99c523a15411cb50800000000000000
+      internalID: 6611588068818667930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkR2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 4317
+        width: 157
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c853147de62025fa0800000000000000
+      internalID: -5813581493900855924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkR3
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 4317
+        width: 178
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170110bfa0894f020800000000000000
+      internalID: 2374690076459339889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkR4
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 4317
+        width: 146
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf30144941029320800000000000000
+      internalID: 2563112552113389484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkR5
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 4317
+        width: 155
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa1d2a78780759c0800000000000000
+      internalID: -3938670035573335386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkR6
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 4317
+        width: 165
+        height: 376
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b334e15a77d8e710800000000000000
+      internalID: 1722863777829106610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkL1
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 4317
+        width: 154
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b37383a4ccdd04f0800000000000000
+      internalID: -860789216642894922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkL2
+      rect:
+        serializedVersion: 2
+        x: 2327
+        y: 4317
+        width: 155
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ecc804978332e20800000000000000
+      internalID: 3324563043354725947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkL3
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 4317
+        width: 177
+        height: 366
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b776a10e8cf4ff30800000000000000
+      internalID: 4608586005550102456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkL4
+      rect:
+        serializedVersion: 2
+        x: 2977
+        y: 4317
+        width: 147
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bfec71d5e31db60800000000000000
+      internalID: 7769059401743137567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkL5
+      rect:
+        serializedVersion: 2
+        x: 3287
+        y: 4317
+        width: 157
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86562bc7cf52edbe0800000000000000
+      internalID: -1450680263612668568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WalkL6
+      rect:
+        serializedVersion: 2
+        x: 3607
+        y: 4317
+        width: 167
+        height: 376
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c059ed8615034da90800000000000000
+      internalID: -7290148770596088564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleD1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2876
+        width: 188
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace5efede6ad45e40800000000000000
+      internalID: 5644376402724544202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleD2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2876
+        width: 188
+        height: 376
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eeeb21d25eb83400800000000000000
+      internalID: 304202237753421543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleD3
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2876
+        width: 187
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8747479786181b9a0800000000000000
+      internalID: -6219047324707687304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleD4
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2876
+        width: 185
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235289d18134831f0800000000000000
+      internalID: -1065027541018335950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleU2
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 2876
+        width: 186
+        height: 376
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98c5c4be5e3795830800000000000000
+      internalID: 4060403970383568009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleU1
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 2876
+        width: 186
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592ffe7e60b732010800000000000000
+      internalID: 1162908398383002261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleR1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 2396
+        width: 178
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0662c08374a056bf0800000000000000
+      internalID: -331847696542587296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleR2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2396
+        width: 177
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d1e03cf8eb5a3e0800000000000000
+      internalID: -2043017331280569042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleR3
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 2396
+        width: 176
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbeaab97cd48043e0800000000000000
+      internalID: -2071509746120479041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleR4
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 2386
+        width: 175
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7672048bcd250830800000000000000
+      internalID: 4036682993123882618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleR5
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 2396
+        width: 176
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f39db40c616c47b0800000000000000
+      internalID: -5238705149974834183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleL1
+      rect:
+        serializedVersion: 2
+        x: 2637
+        y: 2396
+        width: 175
+        height: 387
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34636d6ab1c931430800000000000000
+      internalID: 3752514557106861635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleL2
+      rect:
+        serializedVersion: 2
+        x: 2957
+        y: 2396
+        width: 176
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bafcb5cac62450680800000000000000
+      internalID: -8789546063228055637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleL3
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 2396
+        width: 177
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd92df6cca26e0b40800000000000000
+      internalID: 5408368696730921437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Quase Pronto_65
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 2396
+        width: 36
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c7743269d6a0be0800000000000000
+      internalID: -1510274233424970700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 356bf668ce98b254eb9cf47f86077b04
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      IdleD1: 5644376402724544202
+      IdleD2: 304202237753421543
+      IdleD3: -6219047324707687304
+      IdleD4: -1065027541018335950
+      IdleL1: 3752514557106861635
+      IdleL2: -8789546063228055637
+      IdleL3: 5408368696730921437
+      IdleR1: -331847696542587296
+      IdleR2: -2043017331280569042
+      IdleR3: -2071509746120479041
+      IdleR4: 4036682993123882618
+      IdleR5: -5238705149974834183
+      IdleU1: 1162908398383002261
+      IdleU2: 4060403970383568009
+      Sprite Quase Pronto_100: -9058048041374700443
+      Sprite Quase Pronto_101: 2726196997372784611
+      Sprite Quase Pronto_102: 2662075916366023951
+      Sprite Quase Pronto_103: -3479096972377829179
+      Sprite Quase Pronto_104: 7440972938670070573
+      Sprite Quase Pronto_105: 4894506218802208502
+      Sprite Quase Pronto_106: 669384611570977409
+      Sprite Quase Pronto_107: -6184227005034510894
+      Sprite Quase Pronto_108: -1133810113596636294
+      Sprite Quase Pronto_109: -7933573253545016206
+      Sprite Quase Pronto_110: -7380425752960532660
+      Sprite Quase Pronto_111: 421965807002148877
+      Sprite Quase Pronto_24: 5937526537720808599
+      Sprite Quase Pronto_25: 2301624020972782131
+      Sprite Quase Pronto_26: -7917039880169482040
+      Sprite Quase Pronto_27: 8773165685423472906
+      Sprite Quase Pronto_28: -6346036859558539116
+      Sprite Quase Pronto_29: 1517677446987760854
+      Sprite Quase Pronto_30: -4401001083803232627
+      Sprite Quase Pronto_31: -5531336265931042708
+      Sprite Quase Pronto_32: -4457531436135296578
+      Sprite Quase Pronto_33: 71059927289769269
+      Sprite Quase Pronto_34: 7284293277633923978
+      Sprite Quase Pronto_35: 3066936428210544033
+      Sprite Quase Pronto_36: -4803343165645218011
+      Sprite Quase Pronto_37: -3224331612311961943
+      Sprite Quase Pronto_38: -8226047084896344314
+      Sprite Quase Pronto_39: 3547132004705811756
+      Sprite Quase Pronto_40: 6982338270842926299
+      Sprite Quase Pronto_41: 1063615800592540409
+      Sprite Quase Pronto_42: -8348576336484126696
+      Sprite Quase Pronto_43: -5348381195153140467
+      Sprite Quase Pronto_44: -877207753835256520
+      Sprite Quase Pronto_45: 530980494111788266
+      Sprite Quase Pronto_46: 6292492617811649253
+      Sprite Quase Pronto_47: 7869630750627345350
+      Sprite Quase Pronto_54: 4603715755581862849
+      Sprite Quase Pronto_60: -6142487552379493729
+      Sprite Quase Pronto_61: 3208347337011444189
+      Sprite Quase Pronto_65: -1510274233424970700
+      Sprite Quase Pronto_66: -3836389743060890917
+      Sprite Quase Pronto_67: 4773403794007909688
+      Sprite Quase Pronto_68: 5276510062083717147
+      Sprite Quase Pronto_69: -5308387403903125368
+      Sprite Quase Pronto_70: 3453457062625636789
+      Sprite Quase Pronto_71: 3829111322929135042
+      Sprite Quase Pronto_72: -2854722231382392898
+      Sprite Quase Pronto_73: -7673704458466027063
+      Sprite Quase Pronto_74: -833140473222361232
+      Sprite Quase Pronto_75: 2613733064995321048
+      Sprite Quase Pronto_76: -7361391111470250232
+      Sprite Quase Pronto_77: -4395599344481693523
+      Sprite Quase Pronto_78: 6239068286312456999
+      Sprite Quase Pronto_79: -7113102091224638151
+      Sprite Quase Pronto_80: -9053192632873217243
+      Sprite Quase Pronto_81: 6144286498344575337
+      Sprite Quase Pronto_82: -999506724530840899
+      Sprite Quase Pronto_83: -645958296430005180
+      Sprite Quase Pronto_84: 7853660648311996513
+      Sprite Quase Pronto_85: -4865106485308615045
+      Sprite Quase Pronto_86: -7195555434472439645
+      Sprite Quase Pronto_87: 43320046690296191
+      Sprite Quase Pronto_88: 13390330522374163
+      Sprite Quase Pronto_89: -5810214144197906280
+      Sprite Quase Pronto_90: 5806064222157567567
+      Sprite Quase Pronto_91: 8753939276478756395
+      Sprite Quase Pronto_92: -5522483872978061396
+      Sprite Quase Pronto_93: 2149924497356345304
+      Sprite Quase Pronto_94: 3756014691906821003
+      Sprite Quase Pronto_95: 5249163304861612495
+      Sprite Quase Pronto_96: -3397935583629746239
+      Sprite Quase Pronto_97: 4290735739389575931
+      Sprite Quase Pronto_98: 1580305275433489427
+      Sprite Quase Pronto_99: 6703518470097596435
+      WalkD1: -8439875931562084087
+      WalkD2: 3065796559644798129
+      WalkD3: -6430196721018705270
+      WalkD4: -9017680291682827425
+      WalkD5: -465702527939777691
+      WalkD6: -3115142460551144702
+      WalkL1: -860789216642894922
+      WalkL2: 3324563043354725947
+      WalkL3: 4608586005550102456
+      WalkL4: 7769059401743137567
+      WalkL5: -1450680263612668568
+      WalkL6: -7290148770596088564
+      WalkR1: 6611588068818667930
+      WalkR2: -5813581493900855924
+      WalkR3: 2374690076459339889
+      WalkR4: 2563112552113389484
+      WalkR5: -3938670035573335386
+      WalkR6: 1722863777829106610
+      WalkU1: -6846265566701496878
+      WalkU2: 8495931686727422324
+      WalkU3: 7499990907048692849
+      WalkU4: 8766767202755423091
+      WalkU5: 5137701486870849758
+      WalkU6: -1336864102923154623
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

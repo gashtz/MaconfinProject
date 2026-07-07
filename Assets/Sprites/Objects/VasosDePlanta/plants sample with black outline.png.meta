@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: f1c2be7acc4dab5429a04b5d20ae8355
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8717000641121152189
+    second: plants sample with black outline_0
+  - first:
+      213: 2080260370154367340
+    second: plants sample with black outline_1
+  - first:
+      213: -3866330822224098323
+    second: plants sample with black outline_2
+  - first:
+      213: -2135298986062266016
+    second: plants sample with black outline_3
+  - first:
+      213: 283931109721863906
+    second: plants sample with black outline_4
+  - first:
+      213: 2325957874087972603
+    second: plants sample with black outline_5
+  - first:
+      213: -4830394082664671858
+    second: plants sample with black outline_6
+  - first:
+      213: -7307899109473730913
+    second: plants sample with black outline_7
+  - first:
+      213: -6326276488002795559
+    second: plants sample with black outline_8
+  - first:
+      213: 3531429698564779676
+    second: plants sample with black outline_9
+  - first:
+      213: -7149426515043732036
+    second: plants sample with black outline_10
+  - first:
+      213: -4394492020813822297
+    second: plants sample with black outline_11
+  - first:
+      213: -3658123604627843330
+    second: plants sample with black outline_12
+  - first:
+      213: 3761314727509396064
+    second: plants sample with black outline_13
+  - first:
+      213: -7413075081482453848
+    second: plants sample with black outline_14
+  - first:
+      213: 2145560027777251444
+    second: plants sample with black outline_15
+  - first:
+      213: 1913283335276263382
+    second: plants sample with black outline_16
+  - first:
+      213: -6355002576558430038
+    second: plants sample with black outline_17
+  - first:
+      213: -3768705831969965903
+    second: plants sample with black outline_18
+  - first:
+      213: 1757036792125647590
+    second: plants sample with black outline_19
+  - first:
+      213: 7791508394945465294
+    second: plants sample with black outline_20
+  - first:
+      213: -4129761607077001805
+    second: plants sample with black outline_21
+  - first:
+      213: -1836158261676818283
+    second: plants sample with black outline_22
+  - first:
+      213: 7572735135206619078
+    second: plants sample with black outline_23
+  - first:
+      213: -6845071680529756983
+    second: plants sample with black outline_24
+  - first:
+      213: 781085955139779102
+    second: plants sample with black outline_25
+  - first:
+      213: 895751671952761783
+    second: plants sample with black outline_26
+  - first:
+      213: -7892899681492352727
+    second: plants sample with black outline_27
+  - first:
+      213: -6336654014960616690
+    second: plants sample with black outline_28
+  - first:
+      213: -3821838858445474909
+    second: plants sample with black outline_29
+  - first:
+      213: -6685797340900140384
+    second: plants sample with black outline_30
+  - first:
+      213: 7540416443688012264
+    second: plants sample with black outline_31
+  - first:
+      213: -1174532598013376674
+    second: plants sample with black outline_32
+  - first:
+      213: 6822186181482669751
+    second: plants sample with black outline_33
+  - first:
+      213: 1872609498200826927
+    second: plants sample with black outline_34
+  - first:
+      213: -9028350455972579530
+    second: plants sample with black outline_35
+  - first:
+      213: -6194121273301485378
+    second: plants sample with black outline_36
+  - first:
+      213: 6442813897122384647
+    second: plants sample with black outline_37
+  - first:
+      213: 310071371008446922
+    second: plants sample with black outline_38
+  - first:
+      213: 7145914878430690829
+    second: plants sample with black outline_39
+  - first:
+      213: -5206183780608314362
+    second: plants sample with black outline_40
+  - first:
+      213: -1044180499577340212
+    second: plants sample with black outline_41
+  - first:
+      213: 8204428810062534809
+    second: plants sample with black outline_42
+  - first:
+      213: 1526630982243365945
+    second: plants sample with black outline_43
+  - first:
+      213: 972019054066492636
+    second: plants sample with black outline_44
+  - first:
+      213: 6095601126181745896
+    second: plants sample with black outline_45
+  - first:
+      213: 5382216607999986358
+    second: plants sample with black outline_46
+  - first:
+      213: 2777905820102650842
+    second: plants sample with black outline_47
+  - first:
+      213: 6643948228844555754
+    second: plants sample with black outline_48
+  - first:
+      213: -1804006406434770242
+    second: plants sample with black outline_49
+  - first:
+      213: 6055668304901728863
+    second: plants sample with black outline_50
+  - first:
+      213: 8029096282828480224
+    second: plants sample with black outline_51
+  - first:
+      213: 1725142109390674908
+    second: plants sample with black outline_52
+  - first:
+      213: 6950146947644106572
+    second: plants sample with black outline_53
+  - first:
+      213: 5612773491436366823
+    second: plants sample with black outline_54
+  - first:
+      213: -5214411007592448053
+    second: plants sample with black outline_55
+  - first:
+      213: -4128273107821202577
+    second: plants sample with black outline_56
+  - first:
+      213: -4459844393479159616
+    second: plants sample with black outline_57
+  - first:
+      213: 3193010398610330218
+    second: plants sample with black outline_58
+  - first:
+      213: -4464615892340181837
+    second: plants sample with black outline_59
+  - first:
+      213: -7727565701230282091
+    second: plants sample with black outline_60
+  - first:
+      213: -6252042614764074514
+    second: plants sample with black outline_61
+  - first:
+      213: 5621047712416955554
+    second: plants sample with black outline_62
+  - first:
+      213: -3845272599100233135
+    second: plants sample with black outline_63
+  - first:
+      213: -3360278318583398298
+    second: plants sample with black outline_64
+  - first:
+      213: 8977546955516764070
+    second: plants sample with black outline_65
+  - first:
+      213: 3023387223313757594
+    second: plants sample with black outline_66
+  - first:
+      213: 7337939080989362773
+    second: plants sample with black outline_67
+  - first:
+      213: -6046643550332817986
+    second: plants sample with black outline_68
+  - first:
+      213: 8838702793018166466
+    second: plants sample with black outline_69
+  - first:
+      213: 4449811989028512058
+    second: plants sample with black outline_70
+  - first:
+      213: 4823686524869628450
+    second: plants sample with black outline_71
+  - first:
+      213: 5491015954585307934
+    second: plants sample with black outline_72
+  - first:
+      213: -5154160721942095739
+    second: plants sample with black outline_73
+  - first:
+      213: 3655118770855779870
+    second: plants sample with black outline_74
+  - first:
+      213: 4636803802606973665
+    second: plants sample with black outline_75
+  - first:
+      213: -3686386195864784091
+    second: plants sample with black outline_76
+  - first:
+      213: -731279304656691026
+    second: plants sample with black outline_77
+  - first:
+      213: 6375506811120167541
+    second: plants sample with black outline_78
+  - first:
+      213: -6525404905052891925
+    second: plants sample with black outline_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plants sample with black outline_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 159
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3431f1ff91ef60780800000000000000
+      internalID: -8717000641121152189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 159
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69af53f8c19edc10800000000000000
+      internalID: 2080260370154367340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 159
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb40351a98085ac0800000000000000
+      internalID: -3866330822224098323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 159
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061c18ea2e4ed52e0800000000000000
+      internalID: -2135298986062266016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e677a707d9b0f300800000000000000
+      internalID: 283931109721863906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 95
+        width: 14
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfe498fec56774020800000000000000
+      internalID: 2325957874087972603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 175
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e859f91ac2ef6fcb0800000000000000
+      internalID: -4830394082664671858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 175
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ebc659a70259a90800000000000000
+      internalID: -7307899109473730913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 175
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d700bd5d0d8438a0800000000000000
+      internalID: -6326276488002795559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 159
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ee73cb998220130800000000000000
+      internalID: 3531429698564779676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 175
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53f0fb67228cc90800000000000000
+      internalID: -7149426515043732036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 159
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a68a134ac0a303c0800000000000000
+      internalID: -4394492020813822297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_12
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 175
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef69fa196fbbb3dc0800000000000000
+      internalID: -3658123604627843330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 175
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a84adf0dfd23430800000000000000
+      internalID: 3761314727509396064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 175
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac30f25d777f1990800000000000000
+      internalID: -7413075081482453848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 175
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478b0f34a7f86cd10800000000000000
+      internalID: 2145560027777251444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 159
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7f0d17e095d8a10800000000000000
+      internalID: 1913283335276263382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8ea8da3de7ec7a0800000000000000
+      internalID: -6355002576558430038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 159
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8bc76630ed2bbc0800000000000000
+      internalID: -3768705831969965903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 159
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eae0fb37af326810800000000000000
+      internalID: 1757036792125647590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 143
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbc231aa9ff02c60800000000000000
+      internalID: 7791508394945465294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b50123e2b320b6c0800000000000000
+      internalID: -4129761607077001805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_22
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 159
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590ca551ac7a486e0800000000000000
+      internalID: -1836158261676818283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c73c10cb72c71960800000000000000
+      internalID: 7572735135206619078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc00f3c29b6101a0800000000000000
+      internalID: -6845071680529756983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a372fa989f6da00800000000000000
+      internalID: 781085955139779102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 111
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b3e4b556695e6c00800000000000000
+      internalID: 895751671952761783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 143
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921cadcde89c67290800000000000000
+      internalID: -7892899681492352727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 143
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b38b51fbeaf08a0800000000000000
+      internalID: -6336654014960616690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_29
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3b295aec916fac0800000000000000
+      internalID: -3821838858445474909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 127
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa5567cdb64733a0800000000000000
+      internalID: -6685797340900140384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 127
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9c9800ec0f4a860800000000000000
+      internalID: 7540416443688012264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_32
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 143
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57cb4633d833bfe0800000000000000
+      internalID: -1174532598013376674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b66ad2cf264dae50800000000000000
+      internalID: 6822186181482669751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f246847ca68dcf910800000000000000
+      internalID: 1872609498200826927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_35
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 127
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637b404381bd4b280800000000000000
+      internalID: -9028350455972579530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 111
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8bc21158f0a0aa0800000000000000
+      internalID: -6194121273301485378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 111
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b0eeb9a19796950800000000000000
+      internalID: 6442813897122384647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 111
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac11af3e4489d4400800000000000000
+      internalID: 310071371008446922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 111
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0e3a04a8b36b2360800000000000000
+      internalID: 7145914878430690829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_40
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 111
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604f0716f6befb7b0800000000000000
+      internalID: -5206183780608314362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce7d413e535281f0800000000000000
+      internalID: -1044180499577340212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 127
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99812c8a88cfbd170800000000000000
+      internalID: 8204428810062534809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 127
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 934b8b73aceaf2510800000000000000
+      internalID: 1526630982243365945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_44
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 127
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd46b800e2e4d7d00800000000000000
+      internalID: 972019054066492636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 111
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4b88aadece79450800000000000000
+      internalID: 6095601126181745896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ba0c002d7971ba40800000000000000
+      internalID: 5382216607999986358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_47
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 127
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb65ba10aa1d8620800000000000000
+      internalID: 2777905820102650842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_48
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed8d5686bb043c50800000000000000
+      internalID: 6643948228844555754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_49
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb23deb3bb1e6f6e0800000000000000
+      internalID: -1804006406434770242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_50
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a624f2d3e0a0450800000000000000
+      internalID: 6055668304901728863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_51
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 111
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee966d77841d6f60800000000000000
+      internalID: 8029096282828480224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_52
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 111
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb9c49bb9fe0f710800000000000000
+      internalID: 1725142109390674908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_53
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 111
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47a71f43d1e37060800000000000000
+      internalID: 6950146947644106572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 95
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb2bc1b0c394ed40800000000000000
+      internalID: 5612773491436366823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 95
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcfb093d0d0b2a7b0800000000000000
+      internalID: -5214411007592448053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_56
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f63f4802b7d65b6c0800000000000000
+      internalID: -4128273107821202577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 111
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0482547237b12c0800000000000000
+      internalID: -4459844393479159616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_58
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 111
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a621c4d4a0adf4c20800000000000000
+      internalID: 3193010398610330218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_59
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 95
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4ff7e108f7a02c0800000000000000
+      internalID: -4464615892340181837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_60
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 63
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a3da7efeb22c490800000000000000
+      internalID: -7727565701230282091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_61
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 95
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9026add584c39a0800000000000000
+      internalID: -6252042614764074514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_62
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 95
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac7224ec19f10e40800000000000000
+      internalID: 5621047712416955554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_63
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 95
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a661ab1f8d2aac0800000000000000
+      internalID: -3845272599100233135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_64
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660c36a3ca4ed51d0800000000000000
+      internalID: -3360278318583398298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_65
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af57f51467a69c70800000000000000
+      internalID: 8977546955516764070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95321839aa35f920800000000000000
+      internalID: 3023387223313757594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_67
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ac3d157b895d560800000000000000
+      internalID: 7337939080989362773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_68
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd610b3ab1061ca0800000000000000
+      internalID: -6046643550332817986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_69
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 63
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ccc91d5c5169aa70800000000000000
+      internalID: 8838702793018166466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_70
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 63
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31a15b8d68e0cd30800000000000000
+      internalID: 4449811989028512058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_71
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 63
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22251be565d21f240800000000000000
+      internalID: 4823686524869628450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_72
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b4f050be1043c40800000000000000
+      internalID: 5491015954585307934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 588de5d912eb878b0800000000000000
+      internalID: -5154160721942095739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 15
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e98bc082799b230800000000000000
+      internalID: 3655118770855779870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_75
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 15
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2b19bdd7c395040800000000000000
+      internalID: 4636803802606973665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_76
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 15
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5237392494357dcc0800000000000000
+      internalID: -3686386195864784091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_77
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0e75ec859f9d5f0800000000000000
+      internalID: -731279304656691026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 15
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57aa6e37aa95a7850800000000000000
+      internalID: 6375506811120167541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants sample with black outline_79
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be41bbadfca1175a0800000000000000
+      internalID: -6525404905052891925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      plants sample with black outline_0: -8717000641121152189
+      plants sample with black outline_1: 2080260370154367340
+      plants sample with black outline_10: -7149426515043732036
+      plants sample with black outline_11: -4394492020813822297
+      plants sample with black outline_12: -3658123604627843330
+      plants sample with black outline_13: 3761314727509396064
+      plants sample with black outline_14: -7413075081482453848
+      plants sample with black outline_15: 2145560027777251444
+      plants sample with black outline_16: 1913283335276263382
+      plants sample with black outline_17: -6355002576558430038
+      plants sample with black outline_18: -3768705831969965903
+      plants sample with black outline_19: 1757036792125647590
+      plants sample with black outline_2: -3866330822224098323
+      plants sample with black outline_20: 7791508394945465294
+      plants sample with black outline_21: -4129761607077001805
+      plants sample with black outline_22: -1836158261676818283
+      plants sample with black outline_23: 7572735135206619078
+      plants sample with black outline_24: -6845071680529756983
+      plants sample with black outline_25: 781085955139779102
+      plants sample with black outline_26: 895751671952761783
+      plants sample with black outline_27: -7892899681492352727
+      plants sample with black outline_28: -6336654014960616690
+      plants sample with black outline_29: -3821838858445474909
+      plants sample with black outline_3: -2135298986062266016
+      plants sample with black outline_30: -6685797340900140384
+      plants sample with black outline_31: 7540416443688012264
+      plants sample with black outline_32: -1174532598013376674
+      plants sample with black outline_33: 6822186181482669751
+      plants sample with black outline_34: 1872609498200826927
+      plants sample with black outline_35: -9028350455972579530
+      plants sample with black outline_36: -6194121273301485378
+      plants sample with black outline_37: 6442813897122384647
+      plants sample with black outline_38: 310071371008446922
+      plants sample with black outline_39: 7145914878430690829
+      plants sample with black outline_4: 283931109721863906
+      plants sample with black outline_40: -5206183780608314362
+      plants sample with black outline_41: -1044180499577340212
+      plants sample with black outline_42: 8204428810062534809
+      plants sample with black outline_43: 1526630982243365945
+      plants sample with black outline_44: 972019054066492636
+      plants sample with black outline_45: 6095601126181745896
+      plants sample with black outline_46: 5382216607999986358
+      plants sample with black outline_47: 2777905820102650842
+      plants sample with black outline_48: 6643948228844555754
+      plants sample with black outline_49: -1804006406434770242
+      plants sample with black outline_5: 2325957874087972603
+      plants sample with black outline_50: 6055668304901728863
+      plants sample with black outline_51: 8029096282828480224
+      plants sample with black outline_52: 1725142109390674908
+      plants sample with black outline_53: 6950146947644106572
+      plants sample with black outline_54: 5612773491436366823
+      plants sample with black outline_55: -5214411007592448053
+      plants sample with black outline_56: -4128273107821202577
+      plants sample with black outline_57: -4459844393479159616
+      plants sample with black outline_58: 3193010398610330218
+      plants sample with black outline_59: -4464615892340181837
+      plants sample with black outline_6: -4830394082664671858
+      plants sample with black outline_60: -7727565701230282091
+      plants sample with black outline_61: -6252042614764074514
+      plants sample with black outline_62: 5621047712416955554
+      plants sample with black outline_63: -3845272599100233135
+      plants sample with black outline_64: -3360278318583398298
+      plants sample with black outline_65: 8977546955516764070
+      plants sample with black outline_66: 3023387223313757594
+      plants sample with black outline_67: 7337939080989362773
+      plants sample with black outline_68: -6046643550332817986
+      plants sample with black outline_69: 8838702793018166466
+      plants sample with black outline_7: -7307899109473730913
+      plants sample with black outline_70: 4449811989028512058
+      plants sample with black outline_71: 4823686524869628450
+      plants sample with black outline_72: 5491015954585307934
+      plants sample with black outline_73: -5154160721942095739
+      plants sample with black outline_74: 3655118770855779870
+      plants sample with black outline_75: 4636803802606973665
+      plants sample with black outline_76: -3686386195864784091
+      plants sample with black outline_77: -731279304656691026
+      plants sample with black outline_78: 6375506811120167541
+      plants sample with black outline_79: -6525404905052891925
+      plants sample with black outline_8: -6326276488002795559
+      plants sample with black outline_9: 3531429698564779676
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

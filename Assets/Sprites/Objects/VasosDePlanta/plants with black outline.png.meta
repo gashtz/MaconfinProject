@@ -1,0 +1,2210 @@
+fileFormatVersion: 2
+guid: 777cf5441abfbbd4ab57257bf357b516
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1074918731122857016
+    second: plants with black outline_0
+  - first:
+      213: -7950419776246060987
+    second: plants with black outline_1
+  - first:
+      213: -5376428941391010882
+    second: plants with black outline_2
+  - first:
+      213: -6599863014578169690
+    second: plants with black outline_3
+  - first:
+      213: 952702478626348664
+    second: plants with black outline_4
+  - first:
+      213: -904084636883322004
+    second: plants with black outline_5
+  - first:
+      213: 9071568813946023708
+    second: plants with black outline_6
+  - first:
+      213: 149049456475153620
+    second: plants with black outline_7
+  - first:
+      213: 6769347767477681444
+    second: plants with black outline_8
+  - first:
+      213: -1875848494752756361
+    second: plants with black outline_9
+  - first:
+      213: -125033113723282433
+    second: plants with black outline_10
+  - first:
+      213: -7546023816650120567
+    second: plants with black outline_11
+  - first:
+      213: 3705024738355746656
+    second: plants with black outline_12
+  - first:
+      213: 8432124423730691361
+    second: plants with black outline_13
+  - first:
+      213: -5277965952574456941
+    second: plants with black outline_14
+  - first:
+      213: -7241319494901068485
+    second: plants with black outline_15
+  - first:
+      213: -7083479137390589488
+    second: plants with black outline_16
+  - first:
+      213: 4737717475729202263
+    second: plants with black outline_17
+  - first:
+      213: 7509583644832327372
+    second: plants with black outline_18
+  - first:
+      213: 7351778230385684437
+    second: plants with black outline_19
+  - first:
+      213: 3058810233059043941
+    second: plants with black outline_20
+  - first:
+      213: -2698395489319080168
+    second: plants with black outline_21
+  - first:
+      213: -71827409615526199
+    second: plants with black outline_22
+  - first:
+      213: 1941726763413672149
+    second: plants with black outline_23
+  - first:
+      213: 100803652736151331
+    second: plants with black outline_24
+  - first:
+      213: 4060493149235619764
+    second: plants with black outline_25
+  - first:
+      213: 8991057886001182319
+    second: plants with black outline_26
+  - first:
+      213: 5154362999265376021
+    second: plants with black outline_27
+  - first:
+      213: -6756482646025081098
+    second: plants with black outline_28
+  - first:
+      213: -3858024431517462361
+    second: plants with black outline_29
+  - first:
+      213: 574989389949450590
+    second: plants with black outline_30
+  - first:
+      213: -5378857952536523305
+    second: plants with black outline_31
+  - first:
+      213: -8528242950962342001
+    second: plants with black outline_32
+  - first:
+      213: -878452011211829811
+    second: plants with black outline_33
+  - first:
+      213: 1557167659537811103
+    second: plants with black outline_34
+  - first:
+      213: 2503398318314893028
+    second: plants with black outline_35
+  - first:
+      213: 3601414882592578718
+    second: plants with black outline_36
+  - first:
+      213: 5059926706460652388
+    second: plants with black outline_37
+  - first:
+      213: 4411773224761290413
+    second: plants with black outline_38
+  - first:
+      213: 5437807932124918062
+    second: plants with black outline_39
+  - first:
+      213: -8601841914947185229
+    second: plants with black outline_40
+  - first:
+      213: 7948736777193730278
+    second: plants with black outline_41
+  - first:
+      213: -3596140103949384468
+    second: plants with black outline_42
+  - first:
+      213: 4692232146186635554
+    second: plants with black outline_43
+  - first:
+      213: 4837225927877113251
+    second: plants with black outline_44
+  - first:
+      213: -8802647148463265011
+    second: plants with black outline_45
+  - first:
+      213: -716732056866638469
+    second: plants with black outline_46
+  - first:
+      213: -3619997290240660622
+    second: plants with black outline_47
+  - first:
+      213: 9046068181450079113
+    second: plants with black outline_48
+  - first:
+      213: 1300312143671513738
+    second: plants with black outline_49
+  - first:
+      213: -2067039864551286139
+    second: plants with black outline_50
+  - first:
+      213: -1361821200941365446
+    second: plants with black outline_51
+  - first:
+      213: -2895422453995271979
+    second: plants with black outline_52
+  - first:
+      213: 2596872853535620713
+    second: plants with black outline_53
+  - first:
+      213: 2528551060522684269
+    second: plants with black outline_54
+  - first:
+      213: 4227964884509604960
+    second: plants with black outline_55
+  - first:
+      213: 3772212856928647667
+    second: plants with black outline_56
+  - first:
+      213: 8673005180514138194
+    second: plants with black outline_57
+  - first:
+      213: 462288627412002548
+    second: plants with black outline_58
+  - first:
+      213: 6613848986950363399
+    second: plants with black outline_59
+  - first:
+      213: -6265480330603505798
+    second: plants with black outline_60
+  - first:
+      213: -5660126043106804523
+    second: plants with black outline_61
+  - first:
+      213: -8829654037916611729
+    second: plants with black outline_62
+  - first:
+      213: -4235992330454067444
+    second: plants with black outline_63
+  - first:
+      213: 4981920294023647203
+    second: plants with black outline_64
+  - first:
+      213: 4385706658775128056
+    second: plants with black outline_65
+  - first:
+      213: 265136430300614633
+    second: plants with black outline_66
+  - first:
+      213: -6808965480197404809
+    second: plants with black outline_67
+  - first:
+      213: 3541589990653988137
+    second: plants with black outline_68
+  - first:
+      213: -4887298895916663630
+    second: plants with black outline_69
+  - first:
+      213: 4592400788653446606
+    second: plants with black outline_70
+  - first:
+      213: 8636604703989824464
+    second: plants with black outline_71
+  - first:
+      213: -6592651893535363480
+    second: plants with black outline_72
+  - first:
+      213: 556722524252423896
+    second: plants with black outline_73
+  - first:
+      213: -2322710511854715754
+    second: plants with black outline_74
+  - first:
+      213: -839799727149894625
+    second: plants with black outline_75
+  - first:
+      213: -7565677695227616749
+    second: plants with black outline_76
+  - first:
+      213: -3038080202243267239
+    second: plants with black outline_77
+  - first:
+      213: 981181424272751650
+    second: plants with black outline_78
+  - first:
+      213: -1971607508278891493
+    second: plants with black outline_79
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plants with black outline_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 159
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 834ddfa04e0eaee00800000000000000
+      internalID: 1074918731122857016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 159
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548ec9d265f6aa190800000000000000
+      internalID: -7950419776246060987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 159
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb362440d561365b0800000000000000
+      internalID: -5376428941391010882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 159
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a854d94e839864a0800000000000000
+      internalID: -6599863014578169690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 175
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e582f4bdda83d00800000000000000
+      internalID: 952702478626348664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_5
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 95
+        width: 14
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b7ea310db0473f0800000000000000
+      internalID: -904084636883322004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 175
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fa3c6e5cfa4ed70800000000000000
+      internalID: 9071568813946023708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_7
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 175
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d4aa23e0b7811200800000000000000
+      internalID: 149049456475153620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_8
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 175
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d3791dded81fd50800000000000000
+      internalID: 6769347767477681444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 159
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77d8fc19bb5a7f5e0800000000000000
+      internalID: -1875848494752756361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 175
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffbdc57ab0bc34ef0800000000000000
+      internalID: -125033113723282433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 159
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982aeedb153274790800000000000000
+      internalID: -7546023816650120567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_12
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 175
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0679ab59e54ea6330800000000000000
+      internalID: 3705024738355746656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 175
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12dfc52fc7ce40570800000000000000
+      internalID: 8432124423730691361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_14
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 175
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b71341ee5e0c6b0800000000000000
+      internalID: -5277965952574456941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 175
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d8f49194aa18b90800000000000000
+      internalID: -7241319494901068485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_16
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 159
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d981f1214d62bd90800000000000000
+      internalID: -7083479137390589488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_17
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 159
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75cdff251f0cfb140800000000000000
+      internalID: 4737717475729202263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_18
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 159
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc660599986673860800000000000000
+      internalID: 7509583644832327372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 159
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfa6916953c60660800000000000000
+      internalID: 7351778230385684437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_20
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 143
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56a60d063b3137a20800000000000000
+      internalID: 3058810233059043941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_21
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81fae93699f5d8ad0800000000000000
+      internalID: -2698395489319080168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_22
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 159
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6eabcf951d00ff0800000000000000
+      internalID: -71827409615526199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d01420243662fa10800000000000000
+      internalID: 1941726763413672149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_24
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f66695360266100800000000000000
+      internalID: 100803652736151331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_25
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 143
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b7a81d7105c95830800000000000000
+      internalID: 4060493149235619764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_26
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 111
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66331ab287a6cc70800000000000000
+      internalID: 8991057886001182319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 143
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51731aeb6d9f78740800000000000000
+      internalID: 5154362999265376021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 143
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe6590b4d62c32a0800000000000000
+      internalID: -6756482646025081098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_29
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 143
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a09f90683b857ac0800000000000000
+      internalID: -3858024431517462361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_30
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 127
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e593e81cdc5caf700800000000000000
+      internalID: 574989389949450590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_31
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 127
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd86c9c0357a55b0800000000000000
+      internalID: -5378857952536523305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_32
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 143
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8719ad783895a980800000000000000
+      internalID: -8528242950962342001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdcd7fcc8c1fc3f0800000000000000
+      internalID: -878452011211829811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_34
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 143
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f964a727cbb2c9510800000000000000
+      internalID: 1557167659537811103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_35
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 127
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee2876c18bddb220800000000000000
+      internalID: 2503398318314893028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_36
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 112
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c5cbd21cbcaf130800000000000000
+      internalID: 3601414882592578718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_37
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 112
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4637918e788783640800000000000000
+      internalID: 5059926706460652388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 111
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daee9739f54c93d30800000000000000
+      internalID: 4411773224761290413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_39
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 111
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e217b17e089f67b40800000000000000
+      internalID: 5437807932124918062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_40
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 111
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5d1855a5e10a880800000000000000
+      internalID: -8601841914947185229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_41
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 111
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e037b11cf59f4e60800000000000000
+      internalID: 7948736777193730278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_42
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 127
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce48f8de0a1f71ec0800000000000000
+      internalID: -3596140103949384468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_43
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 127
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2298f15c6482e1140800000000000000
+      internalID: 4692232146186635554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_44
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 127
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5bc694a57412340800000000000000
+      internalID: 4837225927877113251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_45
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 111
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bedb09e07b6d580800000000000000
+      internalID: -8802647148463265011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_46
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75345fddf7ad06f0800000000000000
+      internalID: -716732056866638469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_47
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 127
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27b2453e4af23cdc0800000000000000
+      internalID: -3619997290240660622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_48
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98bbb4935171a8d70800000000000000
+      internalID: 9046068181450079113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_49
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 127
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82daac5103ab0210800000000000000
+      internalID: 1300312143671513738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_50
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 111
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a59d0e1366053e0800000000000000
+      internalID: -2067039864551286139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_51
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 111
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a374b4e35d6d91de0800000000000000
+      internalID: -1361821200941365446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_52
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 111
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d80ce26e9461d7d0800000000000000
+      internalID: -2895422453995271979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_53
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 111
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e78d9f912f90420800000000000000
+      internalID: 2596872853535620713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_54
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 95
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f44eeeac7371320800000000000000
+      internalID: 2528551060522684269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_55
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 95
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c350869afbcaa30800000000000000
+      internalID: 4227964884509604960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_56
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 111
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9b46a7b97995430800000000000000
+      internalID: 3772212856928647667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_57
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 111
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 258faa79244bc5870800000000000000
+      internalID: 8673005180514138194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_58
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 111
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6689cae016a6600800000000000000
+      internalID: 462288627412002548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_59
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 95
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709e049ac9c19cb50800000000000000
+      internalID: 6613848986950363399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_60
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 63
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a775e23d5da8c09a0800000000000000
+      internalID: -6265480330603505798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_61
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 95
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc7ea83a513371b0800000000000000
+      internalID: -5660126043106804523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_62
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 95
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b036c1f64c67580800000000000000
+      internalID: -8829654037916611729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_63
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 95
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0791003b6bb635c0800000000000000
+      internalID: -4235992330454067444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_64
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 95
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc690bc16532540800000000000000
+      internalID: 4981920294023647203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_65
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f75b5d38f82ddc30800000000000000
+      internalID: 4385706658775128056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 95
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef4519bd24fda300800000000000000
+      internalID: 265136430300614633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_67
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777cfe0a8f1b181a0800000000000000
+      internalID: -6808965480197404809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_68
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 63
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d82051551462130800000000000000
+      internalID: 3541589990653988137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_69
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 63
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc7ab55c83dc2cb0800000000000000
+      internalID: -4887298895916663630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_70
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 63
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec599e98f2c7bbf30800000000000000
+      internalID: 4592400788653446606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_71
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 64
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbf7c638326bd770800000000000000
+      internalID: 8636604703989824464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_72
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 64
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86ea40e38023284a0800000000000000
+      internalID: -6592651893535363480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_73
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 16
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d64688af20e9b700800000000000000
+      internalID: 556722524252423896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69c75d0881314cfd0800000000000000
+      internalID: -2322710511854715754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_75
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 15
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14b2ccf89e6854f0800000000000000
+      internalID: -839799727149894625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_76
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 15
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312acda8830510790800000000000000
+      internalID: -7565677695227616749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_77
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 15
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955a42a072296d5d0800000000000000
+      internalID: -3038080202243267239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c3dfd8e4bdd9d00800000000000000
+      internalID: 981181424272751650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plants with black outline_79
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c2b80da6173a4e0800000000000000
+      internalID: -1971607508278891493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      plants with black outline_0: 1074918731122857016
+      plants with black outline_1: -7950419776246060987
+      plants with black outline_10: -125033113723282433
+      plants with black outline_11: -7546023816650120567
+      plants with black outline_12: 3705024738355746656
+      plants with black outline_13: 8432124423730691361
+      plants with black outline_14: -5277965952574456941
+      plants with black outline_15: -7241319494901068485
+      plants with black outline_16: -7083479137390589488
+      plants with black outline_17: 4737717475729202263
+      plants with black outline_18: 7509583644832327372
+      plants with black outline_19: 7351778230385684437
+      plants with black outline_2: -5376428941391010882
+      plants with black outline_20: 3058810233059043941
+      plants with black outline_21: -2698395489319080168
+      plants with black outline_22: -71827409615526199
+      plants with black outline_23: 1941726763413672149
+      plants with black outline_24: 100803652736151331
+      plants with black outline_25: 4060493149235619764
+      plants with black outline_26: 8991057886001182319
+      plants with black outline_27: 5154362999265376021
+      plants with black outline_28: -6756482646025081098
+      plants with black outline_29: -3858024431517462361
+      plants with black outline_3: -6599863014578169690
+      plants with black outline_30: 574989389949450590
+      plants with black outline_31: -5378857952536523305
+      plants with black outline_32: -8528242950962342001
+      plants with black outline_33: -878452011211829811
+      plants with black outline_34: 1557167659537811103
+      plants with black outline_35: 2503398318314893028
+      plants with black outline_36: 3601414882592578718
+      plants with black outline_37: 5059926706460652388
+      plants with black outline_38: 4411773224761290413
+      plants with black outline_39: 5437807932124918062
+      plants with black outline_4: 952702478626348664
+      plants with black outline_40: -8601841914947185229
+      plants with black outline_41: 7948736777193730278
+      plants with black outline_42: -3596140103949384468
+      plants with black outline_43: 4692232146186635554
+      plants with black outline_44: 4837225927877113251
+      plants with black outline_45: -8802647148463265011
+      plants with black outline_46: -716732056866638469
+      plants with black outline_47: -3619997290240660622
+      plants with black outline_48: 9046068181450079113
+      plants with black outline_49: 1300312143671513738
+      plants with black outline_5: -904084636883322004
+      plants with black outline_50: -2067039864551286139
+      plants with black outline_51: -1361821200941365446
+      plants with black outline_52: -2895422453995271979
+      plants with black outline_53: 2596872853535620713
+      plants with black outline_54: 2528551060522684269
+      plants with black outline_55: 4227964884509604960
+      plants with black outline_56: 3772212856928647667
+      plants with black outline_57: 8673005180514138194
+      plants with black outline_58: 462288627412002548
+      plants with black outline_59: 6613848986950363399
+      plants with black outline_6: 9071568813946023708
+      plants with black outline_60: -6265480330603505798
+      plants with black outline_61: -5660126043106804523
+      plants with black outline_62: -8829654037916611729
+      plants with black outline_63: -4235992330454067444
+      plants with black outline_64: 4981920294023647203
+      plants with black outline_65: 4385706658775128056
+      plants with black outline_66: 265136430300614633
+      plants with black outline_67: -6808965480197404809
+      plants with black outline_68: 3541589990653988137
+      plants with black outline_69: -4887298895916663630
+      plants with black outline_7: 149049456475153620
+      plants with black outline_70: 4592400788653446606
+      plants with black outline_71: 8636604703989824464
+      plants with black outline_72: -6592651893535363480
+      plants with black outline_73: 556722524252423896
+      plants with black outline_74: -2322710511854715754
+      plants with black outline_75: -839799727149894625
+      plants with black outline_76: -7565677695227616749
+      plants with black outline_77: -3038080202243267239
+      plants with black outline_78: 981181424272751650
+      plants with black outline_79: -1971607508278891493
+      plants with black outline_8: 6769347767477681444
+      plants with black outline_9: -1875848494752756361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
